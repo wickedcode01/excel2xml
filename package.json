@@ -1,0 +1,16 @@
+{
+  "name": "excel2xml",
+  "version": "1.0.0",
+  "description": "excel转成xml导入有道单词",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jimmy",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "node-xlsx": "^0.21.0"
+  }
+}
